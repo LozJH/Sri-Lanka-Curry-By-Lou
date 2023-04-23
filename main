@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sri Lanka By Louise - Fish Curry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        #content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+        }
+
+        #recipe {
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sri Lanka By Louise</h1>
+    </header>
+
+    <div id="content">
+        <h2>Sri Lankan Fish Curry</h2>
+        <div id="recipe">
+            <h3>Ingredients</h3>
+            <ul>
+                <li>500g fish, cut into pieces</li>
+                <li>1 onion, finely chopped</li>
+                <li>2 cloves garlic, minced</li>
+                <!-- Add more ingredients here -->
+            </ul>
+
+            <h3>Instructions</h3>
+            <ol>
+                <li>Heat oil in a pan and sauté onions and garlic until golden brown.</li>
+                <li>Add spices and cook for a few minutes.</li>
+                <!-- Add more instructions here -->
+            </ol>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2023 Sri Lanka By Louise. All rights reserved.
+    </footer>
+</body>
+</html>
